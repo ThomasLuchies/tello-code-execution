@@ -1,1 +1,1 @@
-print("awdwadwaddwdawdwadwaadwadw")
+print("Yoooooo!")
