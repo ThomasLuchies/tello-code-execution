@@ -1,1 +1,1 @@
-print("Hello World!awdawdawd!")
+princ("Hello World!awdawdawd!")
