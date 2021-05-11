@@ -1,1 +1,1 @@
-# Student code execution for Tello Drone
+# Student code execution for the Tello Drone
