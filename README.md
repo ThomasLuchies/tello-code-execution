@@ -3,7 +3,7 @@ This repository will contain the files for the students that are following the [
 
 ## :family_man_woman_girl_boy:Assemble the groups
 
-Before you can work with the drone, you have to assemble your groups:
+Before you can work with the drone, you have to assemble your group and get permission:
 
 - Form a group with around 4 to 5 other students.
 
