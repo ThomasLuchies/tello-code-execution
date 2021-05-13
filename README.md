@@ -1,6 +1,5 @@
 # Executing code on the Tello drone
-
-In this manual we will describe how you can execute your code on the drone. 
+This repository will contain the files for the students that are following the [NHL-Stenden-Python-course-programming](https://github.com/MarkBenjamins/NHL-Stenden-Python-course-programming-exercises). It also contains a manual how you can execute your code on the drone and what the system is doing with the student’s code.
 
 ## :family_man_woman_girl_boy:Assemble the groups
 
