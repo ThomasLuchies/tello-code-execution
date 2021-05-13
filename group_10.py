@@ -1,1 +1,1 @@
-printdaw("Hello World!")
+print("Hello World!")
