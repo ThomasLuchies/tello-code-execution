@@ -18,21 +18,19 @@ Before you can work with the drone, you have to assemble your groups:
 
 Each group gets one file to execute code on the drone. In order to acquire the group file, follow the instructions below:
 
-1. Visit this GitHub [page](https://github.com/SydneyM123/p-tff_ci_public).
+1. Clone this repository.
 
-2. Clone the repository.
-
-3. Create a new Python file called group + your specific group number. (for example group1.py)
+2. Create a new Python file called group + your specific group number. (for example group1.py)
 
    *DISCLAIMER: Make sure your file name is unique within the entire repository.*
 
-4. Commit your changes and push the file to the repository.
+3. Commit your changes and push the file to the repository.
 
 
-Now your code is ready to control the Tello drone, it will be executed within three minutes.
+Now your code is ready to control the Tello drone, it will be executed within ? minutes.
 
 ## :man_technologist:Code execution 
 
-The pushed code will be executed automatically. Every 3 minutes the system will scan the repository for changed files. The system will then detect those changed files and place them in the system queue. The system queue is continuously executed through the Jenkins pipeline. The file in front of the system queue will be run and the code will be executed onto the drone.
+The pushed code will be executed automatically. Every ? minutes the system will scan the repository for changed files. The system will then detect those changed files and place them in the system queue. The system queue is continuously executed through the Jenkins pipeline. The file in front of the system queue will be run and the code will be executed onto the drone.
 
 *DISCLAIMER: If your code is not executed, please contact the teacher.*
